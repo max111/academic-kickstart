@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = "2016-04-20T00:00:00"
 
 # Order that this section will appear in.
 weight = 5
@@ -11,30 +11,25 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Machine Learning",
+    "Statistics",
+    "Software Engineering",
+    "Economics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "B.Sc in Computer Science"
+  institution = "Lehigh University"
+  year = 2013
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a software engineer by training. Since finishing my undergraduate studies, I've been working as a software engineer (full-stack and front-end) in multiple disciplines from software-defined networking management applications to customer analytics dashboards. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My passion lies in analyzing data to extract insightful patterns, and I’m curious about uncovering illuminating stories data can tell and making predictive models by applying machine learning techniques. 
+
+I haven’t completely finished the process of transition to this blog from my GitHub Pages blog yet. In the meantime, please check out my data-science related blog posts on my github.io pages [here](https://max111.github.io/).
