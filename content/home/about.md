@@ -32,4 +32,4 @@ I'm a software engineer by training. Since finishing my undergraduate studies, I
 
 My passion lies in analyzing data to extract insightful patterns, and I’m curious about uncovering illuminating stories data can tell and making predictive models by applying machine learning techniques. 
 
-Please check out my data-science related blog posts [here](https://max111.github.io/).
+Please check out my data-science related blog posts [here](https://www.blog.yuaung.me/).
