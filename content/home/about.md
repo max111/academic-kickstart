@@ -28,8 +28,8 @@ weight = 5
 
 # Biography
 
-I'm a software engineer by training. Since finishing my undergraduate studies, I've been working as a software engineer (full-stack and front-end) in multiple disciplines from software-defined networking management applications to customer analytics dashboards. 
+I'm a software engineer by training. Since finishing my undergraduate studies, I've been working as a software engineer (full-stack and front-end) in different roles from software-defined networking management applications to customer analytics dashboards. 
 
-My passion lies in analyzing data to extract insightful patterns, and I’m curious about uncovering illuminating stories data can tell and making predictive models by applying machine learning techniques. 
+My passion lies in analyzing data to extract insightful patterns, and I’m curious about uncovering illuminating stories data can tell and creating predictive models by applying machine learning techniques. 
 
 Please check out my data-science related blog posts [here](https://www.blog.yuaung.me/).
